@@ -1,0 +1,26 @@
+---- Servers and domain names check
+
+Getting IP for NS1.HOSTRY.COM: 185.186.246.19
+Getting IP for NS2.HOSTRY.COM: 206.54.189.187
+Getting IP for NS3.HOSTRY.COM: 195.123.233.100
+Getting IP for NS4.HOSTRY.COM: 45.32.157.198
+
+---- Checking SOA records for CING.CN.EU.ORG
+
+SOA from NS1.HOSTRY.COM at 185.186.246.19: serial 2024062702 (14.201 ms)
+SOA from NS2.HOSTRY.COM at 206.54.189.187: serial 2024062702 (113.379 ms)
+SOA from NS3.HOSTRY.COM at 195.123.233.100: serial 2024062702 (74.685 ms)
+SOA from NS4.HOSTRY.COM at 45.32.157.198: serial 2024062702 (17.615 ms)
+
+---- Checking NS records for CING.CN.EU.ORG
+
+NS from NS1.HOSTRY.COM at 185.186.246.19: ok (13.833 ms)
+NS from NS2.HOSTRY.COM at 206.54.189.187: ok (119.074 ms)
+NS from NS3.HOSTRY.COM at 195.123.233.100: ok (75.807 ms)
+NS from NS4.HOSTRY.COM at 45.32.157.198: ok (18.976 ms)
+
+
+No error, storing for validation...
+Saved as request 20240627212529-arf-33765
+
+Done
