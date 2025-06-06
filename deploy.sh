@@ -1,1 +1,0 @@
-ngrok http --domain=immune-pika-real.ngrok-free.app 80
